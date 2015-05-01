@@ -1,0 +1,14 @@
+{
+  "name": "vision",
+  "version": "0.0.0",
+  "description": "Dashboard for software development projects that integrates with GitHub",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Merouane Atig",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
