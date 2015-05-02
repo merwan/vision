@@ -9,7 +9,8 @@
   "author": "Merouane Atig",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.12.3"
+    "express": "^4.12.3",
+    "nconf": "^0.7.1"
   },
   "devDependencies": {
     "mocha": "^2.2.4",
